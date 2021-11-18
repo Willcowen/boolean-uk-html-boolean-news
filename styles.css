@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+    background-color: rgb(240, 236, 236);
+}
+h1 {
+    font-style: italic;
+    color: #837c7c;
+}
+.Headline img {
+    width: 200px;
+    height: 200px;
+}
